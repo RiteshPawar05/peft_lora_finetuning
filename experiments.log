@@ -144,3 +144,4 @@ Timestamp: 2025-06-26T06:30:35, LR: 0.00377, Batch Size: 8
 Timestamp: 2025-06-26T20:43:17, LR: 0.00980, Batch Size: 8
 Timestamp: 2025-06-28T06:38:19, LR: 0.00864, Batch Size: 16
 Timestamp: 2025-06-28T11:56:40, LR: 0.00666, Batch Size: 8
+Timestamp: 2025-06-28T13:29:06, LR: 0.00129, Batch Size: 64
